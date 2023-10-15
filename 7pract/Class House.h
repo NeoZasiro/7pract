@@ -6,10 +6,7 @@ using namespace std;
 
 namespace Model
 {
-
-
-
-	class House : public Polis
+	class House : public Polis<string>
 	{
 	private:
 		struct HouseInfo

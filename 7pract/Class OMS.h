@@ -5,8 +5,7 @@ using namespace std;
 
 namespace Model
 {
-
-	class OMS : private Polis
+	class OMS : private Polis<string>
 	{
 	private:
 		struct InfoOms

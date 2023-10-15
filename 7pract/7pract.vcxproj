@@ -131,8 +131,6 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Class House.h" />
-    <ClInclude Include="Class OMS.h" />
     <ClInclude Include="Class Polis.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
